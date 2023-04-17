@@ -15,7 +15,6 @@ To use the app, simply clone the repository and `npm install` and run `npm start
 - Firebase
 - ReactJS
 - React Router DOM
-- Material UI
 - Bootsrap
 - Font-Awesome
 
